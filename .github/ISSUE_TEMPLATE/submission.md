@@ -1,27 +1,29 @@
 ---
 name: Team Submission
 about: Submit your Coding Jam project
-title: "[Team Name] — Track ##"
+title: "[Team Name]"
 labels: submission
 ---
 
-<!-- The official Coding Jam submission is still done via https://codingjam.dev/submit -->
+<!-- The official Coding Jam submission is usually done via https://codingjam.dev/submit.
+     It is not mandatory for this event, but it's a great way to showcase your build!
+-->
 
 ## Team members
 
 <!-- Add each team member's GitHub handle -->
 
-- 
-- 
-- 
-- 
-- 
-- 
+-
+-
+-
+-
+-
+-
 
 ## Project repo
 
 - Repo link: 
-- Live demo (optional): 
+- Live demo (optional):
 
 ## Track
 
