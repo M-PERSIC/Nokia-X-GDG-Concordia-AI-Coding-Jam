@@ -93,6 +93,11 @@ Welcome! This is a fast-paced AI coding jam designed to boost your skills and sp
 - [Google Antigravity Homepage](https://antigravity.google/)
 - [Install Google Antigravity](https://antigravity.google/download)
 
+> [!NOTE]
+> Linux users may require the following dependencies to run Antigravity: 
+> `libasound2t64 libnss3 libnspr4`
+
+
 ### Google AI Studio
 
 - [Google AI Studio Homepage](https://aistudio.google.com)
